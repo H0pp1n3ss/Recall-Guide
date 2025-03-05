@@ -1,9 +1,10 @@
 {
   "name": "recall-guide",
   "version": "1.0.0",
+  "description": "An interactive recall training guide for dogs.",
   "main": "index.js",
   "scripts": {
-    "start": "vite dev",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -11,3 +12,10 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
